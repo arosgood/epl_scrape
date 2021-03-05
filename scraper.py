@@ -81,8 +81,6 @@ if __name__ == '__main__':
         payload += matches_sun[q] + '\n'
     #test.email(payload)
 
-def turtle():
-    print('test')
 
 
 
